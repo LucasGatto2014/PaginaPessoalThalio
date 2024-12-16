@@ -1,0 +1,27 @@
+#home,#sobreMim{
+    background-color: transparent;
+	background-image: linear-gradient(
+		to top left,
+		rgba(31, 76, 222, 1) 0%,
+		rgba(255, 255, 255, 0.2) 0%,
+		rgba(111, 136, 214, 1) 100%
+	);
+}
+
+body{
+    font-family: "Hind Mysuru", sans-serif;
+	background-size:100% 250%;
+	background-repeat: no-repeat;
+}
+
+h1{
+	text-align:center;
+}
+
+#img1,#img2,#img3,#img4,#thalio,#thaliosm{
+	width: 40%;
+}
+
+#fotos{
+	background-color: rgba(111, 136, 214, 1) ;
+}
